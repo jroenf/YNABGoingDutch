@@ -183,7 +183,9 @@
       "Af Bij",
       "Bedrag (EUR)",
       "MutatieSoort",
-      "Mededelingen"
+      "Mededelingen",
+      "Saldo na mutatie",
+      "Tag"
     ],
     "account": [
       "Rekening"
@@ -196,7 +198,9 @@
       "Naam / Omschrijving",
       "Tegenrekening"
     ],
-    "category": [],
+    "category": [
+      "Tag"
+    ],
     "memo": [
       "Mededelingen"
     ],
